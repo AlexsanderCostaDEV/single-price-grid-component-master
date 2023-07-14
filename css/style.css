@@ -113,6 +113,9 @@ html, body {
     font-size: 16px;
     box-shadow: 0 0 15px hsla(0, 0%, 0%, 0.2);
 }
+.left button:hover {
+    cursor: pointer;
+}
 
 .right {
     background-color: var(--light-cyan);
